@@ -6,7 +6,6 @@ useSeoMeta({
 
 const contact = [
   { icon: 'i-lucide-mail', label: 'iankluhsman@gmail.com', href: 'mailto:iankluhsman@gmail.com', external: false },
-  { icon: 'i-lucide-phone', label: '720-935-3871', href: 'tel:7209353871', external: false },
   { icon: 'i-simple-icons-github', label: 'github.com/ikluhsman', href: 'https://github.com/ikluhsman', external: true },
   { icon: 'i-simple-icons-linkedin', label: 'linkedin.com/in/iankco', href: 'https://www.linkedin.com/in/iankco/', external: true },
 ]

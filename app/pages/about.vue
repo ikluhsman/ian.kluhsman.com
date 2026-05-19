@@ -29,11 +29,11 @@ const skillCategories = [
   },
   {
     name: 'Databases',
-    skills: ['SQL Server', 'MS SQL', 'MS Access']
+    skills: ['SQL Server', 'MS SQL', 'MS Access', 'PostgreSQL', 'Firebase', 'MongoDB']
   },
   {
     name: 'AI & LLM',
-    skills: ['Claude API (Anthropic SDK)', 'OpenAI API', 'Ollama', 'LangChain', 'LlamaIndex', 'Claude Code']
+    skills: ['Claude API (Anthropic SDK)', 'OpenAI API', 'Ollama', 'LangChain', 'LlamaIndex', 'Claude Code', 'RAG', 'Voyage AI']
   },
 ]
 

@@ -21,6 +21,7 @@ const links = [
       <UNavigationMenu
         :items="links"
         variant="link"
+        color="primary"
         class="hidden sm:flex"
       />
       <UColorModeButton />
@@ -39,6 +40,7 @@ const links = [
       <UNavigationMenu
         :items="links"
         orientation="vertical"
+        color="primary"
         class="sm:hidden"
       />
     </template>

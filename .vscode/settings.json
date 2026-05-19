@@ -1,0 +1,11 @@
+{
+  "eslint.useFlatConfig": true,
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "files.associations": {
+    "*.vue": "vue"
+  },
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
